@@ -1,6 +1,6 @@
 # Mandrake: Fault-Tolerance Simulation
 
-This project is a Python asyncio simulation of the fault-tolerance concepts from the "Mandrake: Multi-Agent Systems" paper.
+This project is a Python `asyncio` simulation of the fault-tolerance concepts from the "Mandrake: Multi-Agent Systems" paper.
 
 It demonstrates the difference between a system without fault tolerance and a system with Mandrake's application-level policies.
 
